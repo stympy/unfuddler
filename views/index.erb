@@ -1,0 +1,23 @@
+<p>
+  Please submit your request using this form:
+</p>
+
+<form method="post">
+  <label for="name">Name</label>
+  <input type="text" name="name" value="" id="name">
+  <label for="email">Email</label>
+  <input type="email" name="email" value="" id="email">
+  <label for="summary">Summary</label>
+  <input type="text" name="summary" value="" id="summary">
+  <label for="description">Description</label>
+  <textarea name="description" rows="8" cols="40"></textarea>
+  <label for="priority">Priority</label>
+  <select name="priority" id="priority">
+    <option value="1">Lowest</option>
+    <option value="2">Low</option>
+    <option value="3" selected="selected">Normal</option>
+    <option value="4">High</option>
+    <option value="5">Highest</option>
+  </select>
+  <input type="submit" name="doit" value="Submit Request" id="some_name">
+</form>

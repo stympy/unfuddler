@@ -1,0 +1,11 @@
+h1. The Unfuddler
+
+A simple "Sinatra":http://www.sinatrarb.com/ app you can use to allow anyone to create tickets in your "Unfuddle":http://www.unfuddle.com/ account.
+
+h2. Installation
+
+You'll need Ruby, rubygems, and the sinatra gem.  Then you can simply run the unfuddler.rb file.  You can also use "Passenger":http://www.modrails.com/documentation/Users%20guide.html#_sinatra with Apache or nginx to run the app.
+
+h2. Credits
+
+This simple bit of code was brought to you by "Benjamin Curtis":http://www.bencurtis.com, with a healthy sampling of code from "Unfuddle's site":http://unfuddle.com/support/tools.

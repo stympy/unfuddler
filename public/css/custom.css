@@ -1,0 +1,9 @@
+/*
+Template:	GT-FREE
+File:		custom.css - Use this file to add any custom styles you need
+
+If you add styles to this template, be sure to include it in your template files.
+*/
+
+label { font-weight: bold; display: block; margin-top: 1em; }
+input[type=submit] { display:block; margin-top: 1em; }
